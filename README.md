@@ -1,7 +1,7 @@
 # play-workshop
 module for making play themed workshop apps
 
-See few demo examples:
+See few examples:
 - [Solidity workshop with Play editor](https://github.com/ethereum-play/workshop-solidity)
 
 # use
